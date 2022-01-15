@@ -1,102 +1,102 @@
 # pekinghot个人列表clash用
 
 # 防误伤
-#0.0.0.0 a1.qpic.cn
-#0.0.0.0 a2.qpic.cn
-#0.0.0.0 a3.qpic.cn
-#0.0.0.0 a4.qpic.cn
-#0.0.0.0 ad.thisav.com
-#0.0.0.0 ai.taobao.com
-#0.0.0.0 alissl.ucdl.pp.uc.cn 豌豆荚应用下载
-#0.0.0.0 als.baidu.com
-#0.0.0.0 amos.alicdn.com淘宝旺旺
-#0.0.0.0 analy.qq.com
-#0.0.0.0 api.47ks.com
-#0.0.0.0 bcs.duapp.com
-#0.0.0.0 c.gdt.qq.com
-#0.0.0.0 c.mipcdn.com 股城网广告和一般内容的脚本域名
-#0.0.0.0 cbu01.alicdn.com 1688阿里巴巴图床
-#0.0.0.0 cdn.jsdelivr.net 蛋蛋赞样式
-#0.0.0.0 cdnaz.win
-#0.0.0.0 cdnjs.cloudflare.com
-#0.0.0.0 ci.phncdn.com pornhub's css
-#0.0.0.0 cmstool.youku.com
-#0.0.0.0 d.youth.cn
-#0.0.0.0 delivery-pc.wasu.cn
-#0.0.0.0 dl-t1.wmzhe.com
-#0.0.0.0 dl.liebao.cn
-#0.0.0.0 dlsw.baidu.com
-#0.0.0.0 down10.zol.com.cn 无法判断是否正常下载链接地址
-#0.0.0.0 f.51240.com css
-#0.0.0.0 g.csdnimg.cn csdn用户头像角标
-#0.0.0.0 gm.mmstat.com
-#0.0.0.0 gsp0.baidu.com
-#0.0.0.0 gss0.baidu.com
-#0.0.0.0 gss1.baidu.com
-#0.0.0.0 gss2.baidu.com
-#0.0.0.0 gss3.baidu.com
-#0.0.0.0 guanjia.qq.com
-#0.0.0.0 i.loli.net v2ex图床
-#0.0.0.0 i1.ciimg.com
-#0.0.0.0 i1.fuimg.com m.dsmi.cc图床
-#0.0.0.0 i2.autoimg.cn 汽车之家头像
-#0.0.0.0 images.39.net
-#0.0.0.0 imagesweb.yxdyk.com
-#0.0.0.0 img.eeyy.com
-#0.0.0.0 img3.baa.bitautotech.com
-#0.0.0.0 img4.baa.bitautotech.com
-#0.0.0.0 imgbdb3.bendibao.com
-#0.0.0.0 inews.gtimg.com 腾讯新闻图片
-#0.0.0.0 jq.qq.com
-#0.0.0.0 js.ifengimg.com
-#0.0.0.0 js.tianjimedia.com
-#0.0.0.0 js.tv.itc.cn
-#0.0.0.0 libs.baidu.com
-#0.0.0.0 log.mmstat.com
-#0.0.0.0 lxcdn.slooti.com
-#0.0.0.0 mixer.video.iqiyi.com猜你喜欢
-#0.0.0.0 nhimg.wenxiu998.com www.yxflz.com图床
-#0.0.0.0 o.aolcdn.com
-#0.0.0.0 onlineconfigservice.ubi.com
-#0.0.0.0 orbitservice.ubi.com
-#0.0.0.0 p.467835.com
-#0.0.0.0 q.i.gdt.qq.com
-#0.0.0.0 q.qlogo.cn
-#0.0.0.0 ruoki.com
-#0.0.0.0 s.autoimg.cn
-#0.0.0.0 s.faloo.com
-#0.0.0.0 s.pc.qq.com
-#0.0.0.0 s1.gemgsx.com
-#0.0.0.0 sinaurl.cn
-#0.0.0.0 sjs.sinajs.cn
-#0.0.0.0 static3.cdn.ubi.com
-#0.0.0.0 sucimg.itc.cn
-#0.0.0.0 t1.baidu.com
-#0.0.0.0 t10.baidu.com
-#0.0.0.0 t11.baidu.com
-#0.0.0.0 t12.baidu.com
-#0.0.0.0 t2.baidu.com
-#0.0.0.0 t3.baidu.com
-#0.0.0.0 t4.baidu.com
-#0.0.0.0 t5.baidu.com
-#0.0.0.0 t6.baidu.com
-#0.0.0.0 t7.baidu.com
-#0.0.0.0 t8.baidu.com
-#0.0.0.0 t9.baidu.com
-#0.0.0.0 tyaqy.m.cn.miaozhen.com评论
-#0.0.0.0 vjs.zencdn.net
-#0.0.0.0 www.126disk.com
-#0.0.0.0 www.72bbb.com
-#0.0.0.0 www.av5c.com
-#0.0.0.0 www.downza.cn
-#0.0.0.0 www.gpxz.com
-#0.0.0.0 www.hackhome.com
-#0.0.0.0 www.prjcode.com
-#0.0.0.0 www.qqzyw.com css
-#0.0.0.0 www.x6img.com www.demetra-tox.net内容图床
-#0.0.0.0 www.you85.cn
-#0.0.0.0 www.yxbao.com
-#0.0.0.0 yes1.feng.com
+# 0.0.0.0 a1.qpic.cn
+# 0.0.0.0 a2.qpic.cn
+# 0.0.0.0 a3.qpic.cn
+# 0.0.0.0 a4.qpic.cn
+# 0.0.0.0 ad.thisav.com
+# 0.0.0.0 ai.taobao.com
+# 0.0.0.0 alissl.ucdl.pp.uc.cn 豌豆荚应用下载
+# 0.0.0.0 als.baidu.com
+# 0.0.0.0 amos.alicdn.com淘宝旺旺
+# 0.0.0.0 analy.qq.com
+# 0.0.0.0 api.47ks.com
+# 0.0.0.0 bcs.duapp.com
+# 0.0.0.0 c.gdt.qq.com
+# 0.0.0.0 c.mipcdn.com 股城网广告和一般内容的脚本域名
+# 0.0.0.0 cbu01.alicdn.com 1688阿里巴巴图床
+# 0.0.0.0 cdn.jsdelivr.net 蛋蛋赞样式
+# 0.0.0.0 cdnaz.win
+# 0.0.0.0 cdnjs.cloudflare.com
+# 0.0.0.0 ci.phncdn.com pornhub's css
+# 0.0.0.0 cmstool.youku.com
+# 0.0.0.0 d.youth.cn
+# 0.0.0.0 delivery-pc.wasu.cn
+# 0.0.0.0 dl-t1.wmzhe.com
+# 0.0.0.0 dl.liebao.cn
+# 0.0.0.0 dlsw.baidu.com
+# 0.0.0.0 down10.zol.com.cn 无法判断是否正常下载链接地址
+# 0.0.0.0 f.51240.com css
+# 0.0.0.0 g.csdnimg.cn csdn用户头像角标
+# 0.0.0.0 gm.mmstat.com
+# 0.0.0.0 gsp0.baidu.com
+# 0.0.0.0 gss0.baidu.com
+# 0.0.0.0 gss1.baidu.com
+# 0.0.0.0 gss2.baidu.com
+# 0.0.0.0 gss3.baidu.com
+# 0.0.0.0 guanjia.qq.com
+# 0.0.0.0 i.loli.net v2ex图床
+# 0.0.0.0 i1.ciimg.com
+# 0.0.0.0 i1.fuimg.com m.dsmi.cc图床
+# 0.0.0.0 i2.autoimg.cn 汽车之家头像
+# 0.0.0.0 images.39.net
+# 0.0.0.0 imagesweb.yxdyk.com
+# 0.0.0.0 img.eeyy.com
+# 0.0.0.0 img3.baa.bitautotech.com
+# 0.0.0.0 img4.baa.bitautotech.com
+# 0.0.0.0 imgbdb3.bendibao.com
+# 0.0.0.0 inews.gtimg.com 腾讯新闻图片
+# 0.0.0.0 jq.qq.com
+# 0.0.0.0 js.ifengimg.com
+# 0.0.0.0 js.tianjimedia.com
+# 0.0.0.0 js.tv.itc.cn
+# 0.0.0.0 libs.baidu.com
+# 0.0.0.0 log.mmstat.com
+# 0.0.0.0 lxcdn.slooti.com
+# 0.0.0.0 mixer.video.iqiyi.com猜你喜欢
+# 0.0.0.0 nhimg.wenxiu998.com www.yxflz.com图床
+# 0.0.0.0 o.aolcdn.com
+# 0.0.0.0 onlineconfigservice.ubi.com
+# 0.0.0.0 orbitservice.ubi.com
+# 0.0.0.0 p.467835.com
+# 0.0.0.0 q.i.gdt.qq.com
+# 0.0.0.0 q.qlogo.cn
+# 0.0.0.0 ruoki.com
+# 0.0.0.0 s.autoimg.cn
+# 0.0.0.0 s.faloo.com
+# 0.0.0.0 s.pc.qq.com
+# 0.0.0.0 s1.gemgsx.com
+# 0.0.0.0 sinaurl.cn
+# 0.0.0.0 sjs.sinajs.cn
+# 0.0.0.0 static3.cdn.ubi.com
+# 0.0.0.0 sucimg.itc.cn
+# 0.0.0.0 t1.baidu.com
+# 0.0.0.0 t10.baidu.com
+# 0.0.0.0 t11.baidu.com
+# 0.0.0.0 t12.baidu.com
+# 0.0.0.0 t2.baidu.com
+# 0.0.0.0 t3.baidu.com
+# 0.0.0.0 t4.baidu.com
+# 0.0.0.0 t5.baidu.com
+# 0.0.0.0 t6.baidu.com
+# 0.0.0.0 t7.baidu.com
+# 0.0.0.0 t8.baidu.com
+# 0.0.0.0 t9.baidu.com
+# 0.0.0.0 tyaqy.m.cn.miaozhen.com评论
+# 0.0.0.0 vjs.zencdn.net
+# 0.0.0.0 www.126disk.com
+# 0.0.0.0 www.72bbb.com
+# 0.0.0.0 www.av5c.com
+# 0.0.0.0 www.downza.cn
+# 0.0.0.0 www.gpxz.com
+# 0.0.0.0 www.hackhome.com
+# 0.0.0.0 www.prjcode.com
+# 0.0.0.0 www.qqzyw.com css
+# 0.0.0.0 www.x6img.com www.demetra-tox.net内容图床
+# 0.0.0.0 www.you85.cn
+# 0.0.0.0 www.yxbao.com
+# 0.0.0.0 yes1.feng.com
 
 #内容开始220115
 DOMAIN-KEYWORD,0-29.com
